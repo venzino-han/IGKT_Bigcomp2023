@@ -1,6 +1,16 @@
-# BigComp 2023
-## Inductive Graph-based Knowledge Tracing 
-https://ieeexplore.ieee.org/abstract/document/10066831
+# Inductive Graph-based Knowledge Tracing 
+[Bigcomp2023](https://ieeexplore.ieee.org/abstract/document/10066831)
+
+```
+@inproceedings{han2023inductive,
+  title={Inductive Graph-based Knowledge Tracing},
+  author={Han, Donghee and Kim, Daehee and Han, Keejun and Yi, Mun Yong},
+  booktitle={2023 IEEE International Conference on Big Data and Smart Computing (BigComp)},
+  pages={92--99},
+  year={2023},
+  organization={IEEE}
+}
+```
 
 # Datasets 
 - EdNet dataset from : https://github.com/riiid/ednet
